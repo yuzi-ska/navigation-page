@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuzi_ska Page</title>
-    <link>https://page.yuzia.fun/</link>
+    <link>https://page.yuzia.cc/</link>
     <description>Recent content on Yuzi_ska Page</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <copyright>Yuzi_ska</copyright>
     <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://page.yuzia.fun/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://page.yuzia.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于网站</title>
-      <link>https://page.yuzia.fun/about/</link>
+      <link>https://page.yuzia.cc/about/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://page.yuzia.fun/about/</guid>
+      <guid>https://page.yuzia.cc/about/</guid>
       <description>&lt;h2 id=&#34;联系地址&#34;&gt;联系地址&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:yuzi@skana.cn&#34;&gt;🍔邮箱&lt;/a&gt;&lt;/strong&gt; |&lt;/p&gt;&#xA;&lt;p&gt;本网站由 Yuzi_ska创建，是作者为了收藏和分享而建，能帮助到别人是作者的目的之一&lt;/p&gt;</description>
     </item>
     <item>
       <title>子页面一</title>
-      <link>https://page.yuzia.fun/sub1/</link>
+      <link>https://page.yuzia.cc/sub1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://page.yuzia.fun/sub1/</guid>
+      <guid>https://page.yuzia.cc/sub1/</guid>
       <description></description>
     </item>
     <item>
       <title>子页面二</title>
-      <link>https://page.yuzia.fun/sub2/</link>
+      <link>https://page.yuzia.cc/sub2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://page.yuzia.fun/sub2/</guid>
+      <guid>https://page.yuzia.cc/sub2/</guid>
       <description></description>
     </item>
   </channel>

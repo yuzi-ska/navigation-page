@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yuzi_ska Page</title>
-    <link>https://page.yuzia.fun/tags/</link>
+    <link>https://page.yuzia.cc/tags/</link>
     <description>Recent content in Tags on Yuzi_ska Page</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <copyright>Yuzi_ska</copyright>
-    <atom:link href="https://page.yuzia.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://page.yuzia.cc/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
